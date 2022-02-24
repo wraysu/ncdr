@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>高雄 3D.kml</name>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>高雄 3D</name>
+		<open>1</open>
+		<Placemark>
+			<name>KCG3D-1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.2879451876741,22.65136075090706,0 120.2846519605782,22.65150192846842,0 120.2818170192041,22.65158758692878,0 120.2815055503246,22.64638893879805,0 120.2814961404096,22.64610422445638,0 120.2815180786775,22.64598461472728,0 120.2815839969587,22.64579053102743,0 120.2816229676351,22.64570957810011,0 120.2818495189706,22.64562280665906,0 120.2820260629555,22.64600640070935,0 120.2824422599626,22.6466298228218,0 120.2827436688168,22.64695888989617,0 120.2830442331388,22.64718381573415,0 120.2832547402021,22.64739152006119,0 120.2850033356225,22.64906635056424,0 120.28532670937,22.64935216916411,0 120.2858450841885,22.64980225087682,0 120.2862841226827,22.65010406940745,0 120.2868060328504,22.650352040482,0 120.287190809341,22.65047961571466,0 120.2879517667856,22.65056151982785,0 120.2879451876741,22.65136075090706,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>KCG3D-2</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.3067093367464,22.61976359345299,0 120.3107902407705,22.62113557819215,0 120.3113627014715,22.61960947026591,0 120.3132298271636,22.62027648708345,0 120.3120995616465,22.62331241453656,0 120.3061071288317,22.62133198754872,0 120.3067093367464,22.61976359345299,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
