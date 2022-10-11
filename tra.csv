@@ -1,4 +1,4 @@
-StationUID,StationID,StationName/Zh_tw,StationName/En,StationPosition/PositionLon,StationPosition/PositionLat,StationAddress,StationPhone,StationClass,StationURL
+StationUID,StationID,StationName/Zh_tw,StationName/En,Longitude,Latitude,StationAddress,StationPhone,StationClass,StationURL
 TRA-0900,0900,基隆,Keelung,121.74013,25.13401,104基隆市中山區民治里1鄰中山一路16之 1號,02-24263743,1,http://www.railway.gov.tw/tra-tip-web/tip/tip00H/tipH41/viewStaInfo/0900
 TRA-0910,0910,三坑,Sankeng,121.74202,25.12305,20045基隆市仁愛區德厚里龍安街 206 號,02-24230289,4,http://www.railway.gov.tw/tra-tip-web/tip/tip00H/tipH41/viewStaInfo/0910
 TRA-0920,0920,八堵,Badu,121.72898,25.10843,20541基隆市暖暖區八南里八堵路 142 號,02-24560841,2,http://www.railway.gov.tw/tra-tip-web/tip/tip00H/tipH41/viewStaInfo/0920
